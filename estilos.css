@@ -1,0 +1,25 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    h1{color: white;padding-left: 15px;
+    }
+    
+    header{display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: o 20px;
+    background-color: black;padding-left: 35px;
+    padding-right: 35px;
+}
+    
+    .barra a{
+        color: white;
+        padding: 14px;
+        text-decoration: none;
+    }
+    
+    .contact{color: white; border-radius: 10px; background-color: dodgerblue;padding-right: 15px;
+    }
+    
